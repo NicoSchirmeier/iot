@@ -1,6 +1,6 @@
 # Enabling Hardware PWM on Raspberry Pi
 
-If you want to use the hardware PWM capabilities of your Raspberry Pi, you will need to activate this feature. And if you want to run your code without elevated root privileged to access them, then, you'll as well need to make couple of modifications. This tutorial is her to help you activating the PWM and making sure you'll get the right permissions.
+If you want to use the hardware PWM capabilities of your Raspberry Pi, you will need to activate this feature. And if you want to run your code without elevated root privileged to access them, then, you'll as well need to make couple of modifications. This tutorial is here to help you activating the PWM and making sure you'll get the right permissions.
 
 ## Basic Hardware PWM code
 
